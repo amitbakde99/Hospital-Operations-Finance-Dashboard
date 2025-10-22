@@ -6,7 +6,7 @@ This project demonstrates how Business Intelligence (BI) can integrate operation
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](images/Screenshot 2025-10-22 203224.png)
+![Dashboard Preview](https://github.com/amitbakde99/Hospital-Operations-Finance-Dashboard/blob/main/images/Screenshot%202025-10-22%20203224.png)
 
 ### 🎯 Key Metrics
 - **YTD & MTD Revenue**
