@@ -97,3 +97,67 @@ YTD & MTD revenue, ALOS, CMI, discharge efficiency, and revenue per case — all
    ```bash
    git clone https://github.com/<your-username>/hospital-analytics-dashboard.git
    cd hospital-analytics-dashboard
+
+   
+2. **Run the data generator**
+
+    ```bash
+    jupyter notebook data/data_generator.ipynb
+    ```
+
+3. **Open the Power BI dashboard**
+
+    ```bash
+    dashboard/Hospital_Operations_Dashboard.pbix
+    ```
+
+4. **Connect to dataset**
+    - Link to `data/Dummy_Hospital_Generated.csv`
+    - Refresh visuals to update KPIs
+
+---
+
+## 📂 Repository Structure
+```bash
+📦 hospital-analytics-dashboard
+│
+├── data/
+│ ├── Dummy_Hospital_Generated.csv
+│ └── data_generator.ipynb
+│
+├── dashboard/
+│ └── Hospital_Operations_Dashboard.pbix
+│
+├── images/
+│ └── dashboard_preview.png
+│
+├── README.md
+└── LICENSE
+```
+---
+
+## 📚 Use Cases
+- Power BI dashboard practice  
+- Healthcare analytics case studies  
+- DAX and KPI modeling exercises  
+- Data visualization design inspiration  
+
+---
+
+## 📊 Kaggle Dataset
+Available for public download:  
+👉 [Dummy Hospital Operations Dataset (2025)](https://www.kaggle.com/)
+
+---
+
+## 👨‍💻 Author
+
+**Amit Bakde**  
+Analystics Consultant, 
+PGDM – Big Data Analytics
+
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** — free for public use and learning.
