@@ -6,7 +6,7 @@ This project demonstrates how Business Intelligence (BI) can integrate operation
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Screenshot 2025-10-22 203224.png)
 
 ### 🎯 Key Metrics
 - **YTD & MTD Revenue**
