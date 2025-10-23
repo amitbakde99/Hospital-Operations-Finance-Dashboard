@@ -15,7 +15,6 @@ This project demonstrates how Business Intelligence (BI) can integrate operation
 - **Revenue per Case**
 - **% Discharge Before 12 PM**
 - **Surgery vs Medical Case Mix**
-- **Doctor Efficiency Score (Composite of Revenue, CMI, LOS)**
 
 ---
 
