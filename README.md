@@ -146,14 +146,14 @@ YTD & MTD revenue, ALOS, CMI, discharge efficiency, and revenue per case — all
 
 ## 📊 Kaggle Dataset
 Available for public download:  
-👉 [Dummy Hospital Operations Dataset (2025)](https://www.kaggle.com/)
+👉 [Dummy Hospital Operations Dataset (2025)](https://www.kaggle.com/datasets/amitbakde/hospital-operations-dataset)
 
 ---
 
 ## 👨‍💻 Author
 
 **Amit Bakde**  
-Analystics Consultant, 
+Analytics Consultant, 
 PGDM – Big Data Analytics
 
 
